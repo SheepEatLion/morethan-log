@@ -6,7 +6,7 @@ const CONFIG = {
     role: "TEAM PLAYER",
     bio: "고와도 내 코드, 미워도 내 코드",
     email: "gowjr207@gmail.com",
-    linkedin: "",
+    linkedin: "junyeong-jang-01525422a",
     github: "SheepEatLion",
     instagram: "",
   },
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "sheepEatLion",
-    description: "노량진 J. 당신 꿈이 있잖수, 당신 아직 젊잔수",
+    description: "syn ack syn ack",
     theme: "dark", // ['light', 'dark', 'auto']
   },
 
