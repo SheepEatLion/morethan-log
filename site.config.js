@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `POOM-backend-code`,
+      href: "https://github.com/lucky-treee/diamond",
     },
   ],
   // blog setting (required)
